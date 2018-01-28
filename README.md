@@ -1,4 +1,4 @@
-# iOS-Event-Handling-Guide-
+# Event Handling Guide for iOS 翻译
 Event Handling Guide for iOS 翻译
 
 出于学习的目的，开始看的Event Handling Guide for iOS的英文版，因为是在找不到中文版本的。。。。。
